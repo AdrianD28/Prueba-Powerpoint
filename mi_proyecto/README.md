@@ -17,7 +17,7 @@ Este proyecto es una aplicación de Python que crea y modifica presentaciones de
 1. Clona este repositorio en tu máquina local:
    ```bash
    git clone https://github.com/AdrianD28/Prueba-Powerpoint.git
-   cd tu_repositorio   ```
+   ```
 
 2. Crea un entorno virtual (opcional pero recomendado):
    ```bash
